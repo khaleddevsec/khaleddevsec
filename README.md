@@ -34,15 +34,15 @@ I'm **Md Khaledul Islam**, a **Full-Stack Developer and Cybersecurity Engineer**
 
 My work combines **software engineering, web application security, ethical hacking, OSINT, reconnaissance, and automation**. I enjoy building complete web systems, developing security-focused tools, and solving technical problems through code.
 
-* Full-Stack Web Development & Backend Engineering
-* Web Application Security & VAPT
-* Ethical Hacking & Penetration Testing
-* OSINT & Security Reconnaissance
-* Security Tool & CLI Development
-* Security Automation & Reconnaissance Pipelines
-* WordPress Development & Security
-* Linux-based Security Engineering
-* Go, Python, Bash & JavaScript development
+- Full-Stack Web Development & Backend Engineering
+- Web Application Security & VAPT
+- Ethical Hacking & Penetration Testing
+- OSINT & Security Reconnaissance
+- Security Tool & CLI Development
+- Security Automation & Reconnaissance Pipelines
+- WordPress Development & Security
+- Linux-based Security Engineering
+- Go, Python, Bash & JavaScript development
 
 > **Build with security in mind.**
 
@@ -58,7 +58,7 @@ My work combines **software engineering, web application security, ethical hacki
 | **OSINT**                  | Open-source intelligence, information gathering & investigation             |
 | **Security Engineering**   | Security automation, tooling & secure application development               |
 | **Reconnaissance**         | Subdomain enumeration, HTTP probing, URL discovery & endpoint analysis      |
-| **WordPress Security**     | Malware remediation, security testing, migration & troubleshooting          |
+| **WordPress Security**     | Malware remediation, security testing, migration & troubleshooting         |
 
 ---
 
@@ -141,7 +141,7 @@ Secure Backend Development
 
 <div align="center">
 
-<a href="https://khaled.cybershadow.info/" target="_blank">
+<a href="https://www.khaleddevsec.com/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Md Khaledul Islam Portfolio" />
 </a>
 
